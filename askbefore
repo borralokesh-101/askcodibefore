@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Electronic Store</title>
+    <style>
+        /* Add your CSS for styling here */
+    </style>
+</head>
+
+<body>
+    <header>
+        <!-- Add header content, including logo, navigation, search bar, etc. -->
+    </header>
+
+    <main>
+        <section class="product-catalog">
+            <!-- Product catalog display, including product images, names, prices, etc. -->
+        </section>
+
+        <section class="filters">
+            <!-- Filters for product catalog, such as category, price range, etc. -->
+        </section>
+
+        <section class="reviews-and-ratings">
+            <!-- Display product reviews and ratings -->
+        </section>
+
+        <section class="subscription">
+            <!-- Subscription form for customers to receive updates and offers -->
+        </section>
+
+        <section class="login">
+            <!-- Login form for customers -->
+        </section>
+
+        <section class="username">
+            <!-- Display the username of the logged-in user -->
+        </section>
+
+        <section class="one-click-ordering">
+            <!-- One-click ordering feature for quick purchases -->
+        </section>
+
+        <section class="suggest-products">
+            <!-- Display suggested products based on browsing history and purchase history -->
+        </section>
+
+        <section class="gaming-zone">
+            <!-- Include gaming zone content for customers -->
+        </section>
+
+        <section class="offers">
+            <!-- Display special offers for frequent customers -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Add footer content, including links, contact information, etc. -->
+    </footer>
+</body>
+
+</html>
